@@ -1,5 +1,5 @@
 # A complete refactoring of the jQuery-Bootstrap centered resume page
-This is a resume page originally composed with good-old jQery, vanilla JavaScript and bootstrap almost three years ago.
+This is a resume page originally composed with good-old jQuery, vanilla JavaScript and bootstrap almost three years ago.
 We all know how that went down, so... I rewrote this thing with React, just like everyone likes nowadays.
 
 ## Things I have used back then
