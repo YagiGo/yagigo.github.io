@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
-import { FontAwesomeIcon} from "@fortawesome/react-fontawesome";
-import {faPhoneSquare, faEnvelope, faMapMarkerAlt, faCode,} from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import {faPhoneSquare, faEnvelope} from "@fortawesome/free-solid-svg-icons";
+import {faGithub} from "@fortawesome/free-brands-svg-icons";
 
 class About extends Component {
     render() {
@@ -21,10 +22,6 @@ class About extends Component {
                                 <FontAwesomeIcon className='far' icon={faEnvelope} />
                                 <a href="mailto:wuzhaoxin1995@hotmail.com">jeremywu1995@gmail.com</a>
                             </div>
-                            <div className="address">
-                                <FontAwesomeIcon className="fas" icon={faMapMarkerAlt} />
-                                〒305-8577　茨城県つくば市天王台1-1-1
-                            </div>
                         </div>
                         <p className="lead mb-5">
                             フロント・サイバサイドのまわり、フルスタックを目指して日々コーディングをしています。
@@ -32,7 +29,7 @@ class About extends Component {
                         </p>
                         <div className="social-icons">
                             <a href="https://github.com/YagiGo">
-                                <FontAwesomeIcon className="fab" icon={faCode} alt="githubはこちら" />
+                                <FontAwesomeIcon icon={faGithub} />
                             </a>
                         </div>
                     </div>

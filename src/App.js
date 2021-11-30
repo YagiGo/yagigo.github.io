@@ -20,6 +20,8 @@ function App() {
           <Skills />
           <hr className="m-0" />
           <Interests />
+          <hr className="m-0" />
+          <Skills />
         </Page>
     </div>
   );
