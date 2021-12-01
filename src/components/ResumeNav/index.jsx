@@ -14,7 +14,6 @@ class ResumeNav extends Component {
                             <NavLink  className="nav-link" href="#education">Education & Work Experience</NavLink>
                             <NavLink  className="nav-link" href="#experience">Projects</NavLink>
                             <NavLink  className="nav-link" href="#skills">skills</NavLink>
-                            <NavLink  className="nav-link" href="#interests">Interests</NavLink>
                         </div>
                     </NavbarCollapse>
                 </Navbar>
