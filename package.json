@@ -1,6 +1,6 @@
 {
   "name": "yagigo.github.io",
-  "homepage": "https://yagigo.github.io/resume",
+  "homepage": "https://yagigo.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
