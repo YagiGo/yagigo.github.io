@@ -31,6 +31,9 @@ you know the drills
 
 TODO: planning on using eslint with prettier for code styling check
 
+## Deploy on GitHub
+This project uses github-pages for automated deployment. To deploy, first run `yarn build`
+and then `yarn deploy`. GitHub access token is required if not setup in advance.
 ## Credit
 The style was forked from [here](https://github.com/StartBootstrap/startbootstrap-resume). Thanks for this simple and 
 straightforward design :)

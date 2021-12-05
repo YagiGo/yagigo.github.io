@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03981ca7-2438-4634-bd7e-f7eeeac396e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/overview.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Interests/index.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ResumeNav/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ResumeNav/index.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ResumeNav/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ResumeNav/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
-    </list>
+    <list default="true" id="03981ca7-2438-4634-bd7e-f7eeeac396e5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -278,7 +268,7 @@
       <workItem from="1638266350756" duration="6684000" />
       <workItem from="1638278059910" duration="4160000" />
       <workItem from="1638328113341" duration="2290000" />
-      <workItem from="1638685354165" duration="4483000" />
+      <workItem from="1638685354165" duration="4596000" />
     </task>
     <task id="LOCAL-00001" summary="modify content">
       <created>1543812102186</created>
@@ -322,7 +312,21 @@
       <option name="project" value="LOCAL" />
       <updated>1638329285313</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Update README.md and implement animation.">
+      <created>1638689890893</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1638689890893</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Update README.md and implement animation.">
+      <created>1638689940635</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1638689940635</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -375,7 +379,8 @@
     <MESSAGE value="backbone finished. Some animations still in progress" />
     <MESSAGE value="update info" />
     <MESSAGE value="github deploy" />
-    <option name="LAST_COMMIT_MESSAGE" value="github deploy" />
+    <MESSAGE value="Update README.md and implement animation." />
+    <option name="LAST_COMMIT_MESSAGE" value="Update README.md and implement animation." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/scss/_resume-item.scss">

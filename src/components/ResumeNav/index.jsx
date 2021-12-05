@@ -25,7 +25,7 @@ class ResumeNav extends Component {
                             <NavLink className="nav-link" name="education" onClick={(e) => this.scrollTo(e)}>Education & Work Experience</NavLink>
                             <NavLink className="nav-link" name="projects" onClick={(e) => this.scrollTo(e)}>Projects</NavLink>
                             <NavLink className="nav-link" name="skills" onClick={(e) => this.scrollTo(e)}>skills</NavLink>
-                            <NavLink className="nav-link" href="https://github.com/YagiGo/yagigo.github.io" target='_blank'>
+                            <NavLink className="nav-link" href="https://github.com/YagiGo/yagigo.github.io" rel="noreferrer" target='_blank'>
                                 About This Page <FontAwesomeIcon icon={faExternalLinkAlt} />
                             </NavLink>
                         </div>
