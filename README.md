@@ -29,12 +29,8 @@ you know the drills
 
 `yarn build`
 
-`yarn eject`
+TODO: planning on using eslint with prettier for code styling check
 
-`yarn lint` 
-
-planning on using eslint with prettier for code styling check
-
-## credit
+## Credit
 The style was forked from [here](https://github.com/StartBootstrap/startbootstrap-resume). Thanks for this simple and 
 straightforward design :)
