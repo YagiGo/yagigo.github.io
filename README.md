@@ -2,11 +2,21 @@
 This is a resume page originally composed with good-old jQuery, vanilla JavaScript and bootstrap almost three years ago.
 We all know how that went down, so... I rewrote this thing with React, just like everyone likes nowadays.
 
-## Things I have used back then
-Gulp, vanilla JS and css, bootstrap, jQuery
+[Check Page Here](https://yagigo.github.io/)
+![](./public/overview.png)
+## Features
+A complete rewrite from Bootstrap-jQuery based page to react-based SPA. All animations and elements are 
+rewritten with react components.
 
-## Things planning on using
-React(probably with a healthy dose of nextJS? We'll see) and all the good stuff that come with it (less, yarn and webpack just to name a few)
+
+
+Note: css parts have not been modularized yet.
+
+## Dependencies
+- Fontawesome: icons and fonts
+- gh-pages: for hosting the page on github
+- react-bootstrap: boostrap components for react.
+- react-scroll: animation
 
 ## How to run this
 you know the drills
@@ -24,3 +34,7 @@ you know the drills
 `yarn lint` 
 
 planning on using eslint with prettier for code styling check
+
+## credit
+The style was forked from [here](https://github.com/StartBootstrap/startbootstrap-resume). Thanks for this simple and 
+straightforward design :)

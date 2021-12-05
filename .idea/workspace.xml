@@ -1,32 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03981ca7-2438-4634-bd7e-f7eeeac396e5" name="Default Changelist" comment="hide the page">
-      <change afterPath="$PROJECT_DIR$/public/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/resume.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/About/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Experience/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Interests/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Page/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Page/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Projects/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ResumeNav/index.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ResumeNav/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Skills/index.jsx" afterDir="false" />
+    <list default="true" id="03981ca7-2438-4634-bd7e-f7eeeac396e5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/overview.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Interests/index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ResumeNav/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ResumeNav/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ResumeNav/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ResumeNav/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -151,7 +134,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.18.1" />
     <property name="javascript.nodejs.core.library.typings.version" value="14.17.34" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../yagi-blog" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../yagigo.github.io.jquery" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -292,7 +275,10 @@
       <option name="presentableId" value="Default" />
       <updated>1543811668792</updated>
       <workItem from="1543811669950" duration="2296000" />
-      <workItem from="1638266350756" duration="5964000" />
+      <workItem from="1638266350756" duration="6684000" />
+      <workItem from="1638278059910" duration="4160000" />
+      <workItem from="1638328113341" duration="2290000" />
+      <workItem from="1638685354165" duration="4483000" />
     </task>
     <task id="LOCAL-00001" summary="modify content">
       <created>1543812102186</created>
@@ -308,7 +294,35 @@
       <option name="project" value="LOCAL" />
       <updated>1543812211833</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="backbone finished. Some animations still in progress">
+      <created>1638272432605</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1638272432605</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update info">
+      <created>1638282203766</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1638282203766</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update info">
+      <created>1638328954524</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1638328954524</updated>
+    </task>
+    <task id="LOCAL-00006" summary="github deploy">
+      <created>1638329285313</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1638329285313</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -358,7 +372,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="modify content" />
     <MESSAGE value="hide the page" />
-    <option name="LAST_COMMIT_MESSAGE" value="hide the page" />
+    <MESSAGE value="backbone finished. Some animations still in progress" />
+    <MESSAGE value="update info" />
+    <MESSAGE value="github deploy" />
+    <option name="LAST_COMMIT_MESSAGE" value="github deploy" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/scss/_resume-item.scss">

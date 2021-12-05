@@ -4,20 +4,20 @@ import About from "./components/About";
 import Experience from "./components/Experience";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
-import Interests from "./components/Interests";
+import { Element } from 'react-scroll';
 
 function App() {
   return (
     <div>
       <Navbar />
         <Page>
-          <About />
+          <Element name="about"><About /></Element>
           <hr className="m-0" />
-          <Experience />
+          <Element name="experience"><Experience /></Element>
           <hr className="m-0" />
-          <Projects />
+          <Element name="projects"><Projects /></Element>
           <hr className="m-0" />
-          <Skills />
+          <Element name="skills"><Skills /></Element>
           <hr className="m-0" />
         </Page>
     </div>
