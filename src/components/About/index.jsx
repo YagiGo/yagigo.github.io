@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import {faPhoneSquare, faEnvelope} from "@fortawesome/free-solid-svg-icons";
+import {faPhoneSquare, faEnvelope, faBlog} from "@fortawesome/free-solid-svg-icons";
 import {faGithub} from "@fortawesome/free-brands-svg-icons";
 
 class About extends Component {
@@ -25,11 +25,16 @@ class About extends Component {
                         </div>
                         <p className="lead mb-5">
                             フロント・サイバサイドのまわり、フルスタックを目指して日々コーディングをしています。
-                            現在モバイルファーストレスポンシブデザイン（Mobile-first responsive design）にRESTfulで大規模なサイバサイド構築をやっています
+                            現在モバイルファーストレスポンシブデザイン（Mobile-first responsive design）にRESTfulで大規模なサイバサイド構築をやっています。
+                            <br/>
+                            GitHubと個人ブログをチェックしたいなら、次のボタンを押してみ！
                         </p>
                         <div className="social-icons">
-                            <a href="https://github.com/YagiGo">
-                                <FontAwesomeIcon icon={faGithub} />
+                            <a href="https://github.com/YagiGo" >
+                                <FontAwesomeIcon  icon={faGithub} />
+                            </a>
+                            <a href="https://yagilocker.hashnode.dev/">
+                                <FontAwesomeIcon icon={faBlog} />
                             </a>
                         </div>
                     </div>
