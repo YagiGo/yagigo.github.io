@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03981ca7-2438-4634-bd7e-f7eeeac396e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/locales/ja/translation.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/locales/zh/translation.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/About/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/About/index.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/i18n.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/i18n.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Experience/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Experience/index.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/locales/en/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/en/translation.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -281,7 +278,7 @@
       <workItem from="1638708638180" duration="72000" />
       <workItem from="1638789477633" duration="750000" />
       <workItem from="1638932689745" duration="9000" />
-      <workItem from="1643279708156" duration="4682000" />
+      <workItem from="1643279708156" duration="7230000" />
     </task>
     <task id="LOCAL-00001" summary="modify content">
       <created>1543812102186</created>
@@ -360,7 +357,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643282765992</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="update about page - EN ver">
+      <created>1643284464457</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1643284464457</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -417,7 +421,8 @@
     <MESSAGE value="Update README.md and deploy!" />
     <MESSAGE value="update blog url" />
     <MESSAGE value="setup i18n for multiple language support" />
-    <option name="LAST_COMMIT_MESSAGE" value="setup i18n for multiple language support" />
+    <MESSAGE value="update about page - EN ver" />
+    <option name="LAST_COMMIT_MESSAGE" value="update about page - EN ver" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/scss/_resume-item.scss">

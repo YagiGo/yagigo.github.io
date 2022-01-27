@@ -16,22 +16,51 @@
   },
   "experience": {
     "college": {
-
+      "name": "Beijing Jiaotong University, China",
+      "major": "Communication Engineering",
+      "duration": "Sept. 2013 ~ Jul. 2017"
     },
     "graduate_school": {
-
+      "name": "University of Tsukuba, Japan",
+      "major": "Computer Science",
+      "duration": "Apr. 2018 ~ Apr. 2020"
     },
     "internship": {
-
+      "location": "Tokyo, Japan",
+      "name": "Softbank Corp.",
+      "type": "Internship",
+      "content": "Specifications, prototyping and developing iOS/Android applications",
+      "duration": "Aug. 2018 ~ Sept. 2018"
     },
     "part_time": {
-
+      "location": "Tokyo, Japan",
+      "name": "Softbank Innoventure Corp.",
+      "type": "Part-time",
+      "content": "Developing and maintaining internal web-based applications with PHP/AWS/jQuery/Bootstrap",
+      "duration": "May 2019 ~ Mar. 2020"
     },
     "full_time": {
-
+      "location": "Tokyo, Japan",
+      "name": "Softbank Corp.",
+      "type": "Full-time",
+      "content": "Developing and maintaining online AI education service with TypeScript/React/NextJS/Ruby/Ruby on Rails/GCP",
+      "duration": "April 2020 ~"
     },
-    "language_proficiencies": {
-
+    "english": {
+      "level": "English (Business Level)",
+      "note": "TOEFL (110/120), TOEIC (980/990)"
+    },
+    "japanese": {
+      "level": "Japanese (Business Level)",
+      "note": "JLPT N1"
+    },
+    "chinese": {
+      "level": "Chinese",
+      "note": "Native Speaker"
     }
+  },
+  "projects": {},
+  "skills": {
+
   }
 }
