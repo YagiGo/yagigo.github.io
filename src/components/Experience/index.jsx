@@ -63,26 +63,26 @@ class Experience extends Component {
                         </div>
                     </div>
 
-                    <div className="resume-item d-flex flex-column flex-md-row mb-5">
-                        <div className="resume-content mr-auto">
-                            <h4 className="mb-0">{t('experience.english.level')}</h4>
-                            <p>{t('experience.english.note')}</p>
-                        </div>
-                    </div>
+                    {/*<div className="resume-item d-flex flex-column flex-md-row mb-5">*/}
+                    {/*    <div className="resume-content mr-auto">*/}
+                    {/*        <h4 className="mb-0">{t('experience.english.level')}</h4>*/}
+                    {/*        <p>{t('experience.english.note')}</p>*/}
+                    {/*    </div>*/}
+                    {/*</div>*/}
 
-                    <div className="resume-item d-flex flex-column flex-md-row mb-5">
-                        <div className="resume-content mr-auto">
-                            <h4 className="mb-0">{t('experience.japanese.level')}</h4>
-                            <p>{t('experience.japanese.note')}</p>
-                        </div>
-                    </div>
+                    {/*<div className="resume-item d-flex flex-column flex-md-row mb-5">*/}
+                    {/*    <div className="resume-content mr-auto">*/}
+                    {/*        <h4 className="mb-0">{t('experience.japanese.level')}</h4>*/}
+                    {/*        <p>{t('experience.japanese.note')}</p>*/}
+                    {/*    </div>*/}
+                    {/*</div>*/}
 
-                    <div className="resume-item d-flex flex-column flex-md-row mb-5">
-                        <div className="resume-content mr-auto">
-                            <h4 className="mb-0">{t('experience.chinese.level')}</h4>
-                            <p>{t('experience.chinese.note')}</p>
-                        </div>
-                    </div>
+                    {/*<div className="resume-item d-flex flex-column flex-md-row mb-5">*/}
+                    {/*    <div className="resume-content mr-auto">*/}
+                    {/*        <h4 className="mb-0">{t('experience.chinese.level')}</h4>*/}
+                    {/*        <p>{t('experience.chinese.note')}</p>*/}
+                    {/*    </div>*/}
+                    {/*</div>*/}
 
                 </div>
             </section>

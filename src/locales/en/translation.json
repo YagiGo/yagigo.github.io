@@ -61,6 +61,40 @@
   },
   "projects": {},
   "skills": {
-
+    "title": "Programming Languages and frameworks",
+    "python": {
+      "name": "Python",
+      "detail": "Exp. 3 years. Mainly for data analysis, coding test, scripting and backend development. (Has experience with framework such as Django)"
+    },
+    "javascript": {
+      "name": "JavaScript",
+      "detail": "Exp. 4 years. Daily driver programming language for both frontend and backend development. (Familiar with Redux/React/nextJS/nodeJS/Webpack)"
+    },
+    "typescript": {
+      "name": "TypeScript",
+      "detail": "Exp. 2 years. Daily driver programming language for the frontend development."
+    },
+    "ruby": {
+      "name": "Ruby/Ruby on Rails",
+      "detail": "Exp. 1 year. Mainly for backend development."
+    },
+    "sql": {
+      "name": "MySQL, MongoDB, redis"
+    },
+    "language": {
+      "name": "Language Proficiencies",
+      "english": {
+        "level": "English (Business Level)",
+        "note": "TOEFL (110/120), TOEIC (980/990)"
+      },
+      "japanese": {
+        "level": "Japanese (Business Level)",
+        "note": "JLPT N1"
+      },
+      "chinese": {
+        "level": "Chinese",
+        "note": "Native Speaker"
+      }
+    }
   }
 }
