@@ -1,7 +1,8 @@
 import React, {Component} from 'react';
-
+import {withNamespaces} from "react-i18next";
 class Projects extends Component {
     render() {
+        const {t} = this.props;
         return (
             <section className="resume-section p-3 p-lg-5 d-flex flex-column" id="experience">
                 <div className="my-auto">
@@ -10,7 +11,7 @@ class Projects extends Component {
                     <div className="resume-item d-flex flex-column flex-md-row mb-3">
                         <div className="resume-content mr-auto">
                             <h3 className="mb-0 pb-1">Axross-AI教育サービス</h3>
-                            <p><a href="https://axross-recipe.com" target="_blank">Axross</a>とは「学んだが活用できない人」を減らしたい想いのもと、現役エンジニアのナレッジを学習教材 "レシピ" として提供するプラットフォームです。
+                            <p><a href="https://axross-recipe.com" target="_blank" rel="noreferrer">Axross</a>とは「学んだが活用できない人」を減らしたい想いのもと、現役エンジニアのナレッジを学習教材 "レシピ" として提供するプラットフォームです。
                                 YOLOやPyTorch, BERT, MoveNet, TensorFlowなどモダンな技術を気軽に触れます。
                             </p>
                             <p>[使用している言語・フレームワーク]TypeScript/NextJS/Webpack/ESLint, Ruby/Ruby on Rails/MySQL/redis, GCP/Githubなど</p>
@@ -80,4 +81,4 @@ class Projects extends Component {
     }
 }
 
-export default Projects;
+export default withNamespaces()(Projects);

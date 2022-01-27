@@ -2,9 +2,11 @@ import React, {Component} from 'react';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {faPhoneSquare, faEnvelope, faBlog} from "@fortawesome/free-solid-svg-icons";
 import {faGithub} from "@fortawesome/free-brands-svg-icons";
+import {withNamespaces} from "react-i18next";
 
 class About extends Component {
     render() {
+        const {t} = this.props;
         return (
             <div>
                 <section className="resume-section p-3 p-lg-5 d-flex d-column" id="about">
@@ -44,4 +46,4 @@ class About extends Component {
     }
 }
 
-export default About;
+export default withNamespaces()(About);
