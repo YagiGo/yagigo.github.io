@@ -11,25 +11,22 @@ class About extends Component {
             <div>
                 <section className="resume-section p-3 p-lg-5 d-flex d-column" id="about">
                     <div className="my-auto">
-                        <h1 className="mb-0">Wu
-                            <span className="text-primary">Zhaoxin</span>
+                        <h1 className="mb-0">{t('about.first_name')}
+                            <span className="text-primary">{t('about.last_name')}</span>
                         </h1>
-                        <div className="subheading mb-5">ゴ　ショウキン</div>
-                        <div className="subheading mb-5">フロント・サーバーサイド　Web Developer<br />
+                        {/*<div className="subheading mb-5">ゴ　ショウキン</div>*/}
+                        <div className="subheading mb-5">{t('about.title')}<br />
                             <div className="phone-number">
                                 <FontAwesomeIcon className='fas' icon={faPhoneSquare} />
-                                080-9825-6504
+                                {t('about.phone')}
                             </div>
                             <div className="email">
                                 <FontAwesomeIcon className='far' icon={faEnvelope} />
-                                <a href="mailto:wuzhaoxin1995@hotmail.com">jeremywu1995@gmail.com</a>
+                                <a href={`mailto:${t('about.email')}`}>{t('about.email')}</a>
                             </div>
                         </div>
                         <p className="lead mb-5">
-                            フロント・サイバサイドのまわり、フルスタックを目指して日々コーディングをしています。
-                            現在モバイルファーストレスポンシブデザイン（Mobile-first responsive design）にRESTfulで大規模なサイバサイド構築をやっています。
-                            <br/>
-                            GitHubと個人ブログをチェックしたいなら、次のボタンを押してみ！
+                            {t('about.introduction')}
                         </p>
                         <div className="social-icons">
                             <a href="https://github.com/YagiGo" >

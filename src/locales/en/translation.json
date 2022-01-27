@@ -1,3 +1,37 @@
 {
-  "test": "a test output"
+  "test": "hello",
+  "navbar": {
+    "about": "About",
+    "education_work_experience": "Education & Word Experience",
+    "projects": "Projects",
+    "skills": "Skills"
+  },
+  "about": {
+    "first_name": "Zhaoxin",
+    "last_name": "Wu",
+    "title": "Web Developer",
+    "phone": "080-9825-6504",
+    "email": "zhaoxinwu01@gmail.com",
+    "introduction": "Hi there! I am a web developer currently living in Tokyo, Japan. I am interested in creating mobile-first, responsive SPAs with modern frontend framework such as React/nextJS, Tailwind CSS, webpack etc. Along with start-small, easy-to-scale backend integration. Becoming a qualified full-stack developer is kind of my goal and am working on it ;) You can check my GitHub account and person blog by clicking the icons down below"
+  },
+  "experience": {
+    "college": {
+
+    },
+    "graduate_school": {
+
+    },
+    "internship": {
+
+    },
+    "part_time": {
+
+    },
+    "full_time": {
+
+    },
+    "language_proficiencies": {
+
+    }
+  }
 }

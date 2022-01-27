@@ -14,7 +14,6 @@ i18n
   .init({
     resources,
     lng: "en",
-    keySeparator: false,
     interpolation: {
       escapeValue: false // no need for xss preventions for react
     }
