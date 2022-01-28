@@ -4,7 +4,7 @@
     <list default="true" id="03981ca7-2438-4634-bd7e-f7eeeac396e5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Experience/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Experience/index.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Skills/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Projects/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects/index.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/locales/en/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/en/translation.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -279,7 +279,8 @@
       <workItem from="1638708638180" duration="72000" />
       <workItem from="1638789477633" duration="750000" />
       <workItem from="1638932689745" duration="9000" />
-      <workItem from="1643279708156" duration="9393000" />
+      <workItem from="1643279708156" duration="11559000" />
+      <workItem from="1643335990687" duration="4024000" />
     </task>
     <task id="LOCAL-00001" summary="modify content">
       <created>1543812102186</created>
@@ -372,7 +373,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643287214403</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="update skill page - EN ver">
+      <created>1643290109642</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1643290109642</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -431,7 +439,8 @@
     <MESSAGE value="setup i18n for multiple language support" />
     <MESSAGE value="update about page - EN ver" />
     <MESSAGE value="update experience page - EN ver" />
-    <option name="LAST_COMMIT_MESSAGE" value="update experience page - EN ver" />
+    <MESSAGE value="update skill page - EN ver" />
+    <option name="LAST_COMMIT_MESSAGE" value="update skill page - EN ver" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/scss/_resume-item.scss">
