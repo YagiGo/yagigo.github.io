@@ -18,12 +18,29 @@
     "college": {
       "name": "Beijing Jiaotong University, China",
       "major": "Communication Engineering",
-      "duration": "Sept. 2013 ~ Jul. 2017"
+      "degree": "B.S",
+      "duration": "Sept. 2013 ~ Jul. 2017",
+      "details": {
+        "row1": "Majoring in Communication engineers, wide range study of Internet communications, operating systems, data structures, system design etc.",
+        "row2": "Receiving scholarship for outstanding academic performance",
+        "row3": "GPA: 3.2/3.8"
+      }
     },
     "graduate_school": {
       "name": "University of Tsukuba, Japan",
       "major": "Computer Science",
-      "duration": "Apr. 2018 ~ Apr. 2020"
+      "degree": "M.S",
+      "duration": "Apr. 2018 ~ Apr. 2020",
+      "details": {
+        "row1": "Conducting research related to Mobile Edge Computing (MEC) and its potentials for optimizing web browsing experience for mobile users.",
+        "row2": "Receiving full-time scholarship for outstanding academic performance",
+        "row3": "Publishing research papers for IEEE. ",
+        "row4": "GPA: 3.3/3.5"
+      },
+      "paper": {
+        "title": "Improving Web Browsing Experience with Personalized Edge Computing.",
+        "citation": "2019 IEEE International Conferences on Ubiquitous Computing & Communications (IUCC) and Data Science and Computational Intelligence (DSCI) and Smart Computing, Networking and Services (SmartCNS). IEEE, 2019."
+      }
     },
     "internship": {
       "location": "Tokyo, Japan",

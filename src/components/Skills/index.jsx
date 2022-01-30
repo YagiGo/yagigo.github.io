@@ -23,7 +23,7 @@ class Skills extends Component {
                         </li>
                         <li>
                             <FontAwesomeIcon icon={faJs} className="pr-sm-1"/>
-                            <strong>{t('skills.typescript.name')}</strong>{t('skills.typescript.detail')}
+                            <strong>{t('skills.typescript.name')}</strong><br/>{t('skills.typescript.detail')}
                         </li>
                         <li>
                             <FontAwesomeIcon icon={faCheck} className="pr-sm-1"/>
