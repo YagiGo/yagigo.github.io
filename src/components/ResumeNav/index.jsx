@@ -3,6 +3,7 @@ import { Navbar, NavbarBrand, NavLink} from 'react-bootstrap';
 import {scroller} from 'react-scroll';
 import NavbarCollapse from "react-bootstrap/NavbarCollapse";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
+import { withNamespaces } from "react-i18next";
 import {faExternalLinkAlt} from "@fortawesome/free-solid-svg-icons";
 import './style.css'
 class ResumeNav extends Component {
@@ -13,8 +14,8 @@ class ResumeNav extends Component {
             smooth: "easeInOutBack"
         })
     }
-
     render() {
+        const {t} = this.props;
         return (
             <div>
                 <Navbar className="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
@@ -36,4 +37,4 @@ class ResumeNav extends Component {
     }
 }
 
-export default ResumeNav;
+export default withNamespaces()(ResumeNav);

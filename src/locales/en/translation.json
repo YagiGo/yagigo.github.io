@@ -1,0 +1,100 @@
+{
+  "test": "hello",
+  "navbar": {
+    "about": "About",
+    "education_work_experience": "Education & Word Experience",
+    "projects": "Projects",
+    "skills": "Skills"
+  },
+  "about": {
+    "first_name": "Zhaoxin",
+    "last_name": "Wu",
+    "title": "Web Developer",
+    "phone": "080-9825-6504",
+    "email": "zhaoxinwu01@gmail.com",
+    "introduction": "Hi there! I am a web developer currently living in Tokyo, Japan. I am interested in creating mobile-first, responsive SPAs with modern frontend framework such as React/nextJS, Tailwind CSS, webpack etc. Along with start-small, easy-to-scale backend integration. Becoming a qualified full-stack developer is kind of my goal and am working on it ;) You can check my GitHub account and person blog by clicking the icons down below"
+  },
+  "experience": {
+    "college": {
+      "name": "Beijing Jiaotong University, China",
+      "major": "Communication Engineering",
+      "duration": "Sept. 2013 ~ Jul. 2017"
+    },
+    "graduate_school": {
+      "name": "University of Tsukuba, Japan",
+      "major": "Computer Science",
+      "duration": "Apr. 2018 ~ Apr. 2020"
+    },
+    "internship": {
+      "location": "Tokyo, Japan",
+      "name": "Softbank Corp.",
+      "type": "Internship",
+      "content": "Specifications, prototyping and developing iOS/Android applications",
+      "duration": "Aug. 2018 ~ Sept. 2018"
+    },
+    "part_time": {
+      "location": "Tokyo, Japan",
+      "name": "Softbank Innoventure Corp.",
+      "type": "Part-time",
+      "content": "Developing and maintaining internal web-based applications with PHP/AWS/jQuery/Bootstrap",
+      "duration": "May 2019 ~ Mar. 2020"
+    },
+    "full_time": {
+      "location": "Tokyo, Japan",
+      "name": "Softbank Corp.",
+      "type": "Full-time",
+      "content": "Developing and maintaining online AI education service with TypeScript/React/NextJS/Ruby/Ruby on Rails/GCP",
+      "duration": "April 2020 ~"
+    },
+    "english": {
+      "level": "English (Business Level)",
+      "note": "TOEFL (110/120), TOEIC (980/990)"
+    },
+    "japanese": {
+      "level": "Japanese (Business Level)",
+      "note": "JLPT N1"
+    },
+    "chinese": {
+      "level": "Chinese",
+      "note": "Native Speaker"
+    }
+  },
+  "projects": {},
+  "skills": {
+    "title": "Programming Languages and frameworks",
+    "python": {
+      "name": "Python",
+      "detail": "Exp. 3 years. Mainly for data analysis, coding test, scripting and backend development. (Has experience with framework such as Django)"
+    },
+    "javascript": {
+      "name": "JavaScript",
+      "detail": "Exp. 4 years. Daily driver programming language for both frontend and backend development. (Familiar with Redux/React/nextJS/nodeJS/Webpack)"
+    },
+    "typescript": {
+      "name": "TypeScript",
+      "detail": "Exp. 2 years. Daily driver programming language for the frontend development."
+    },
+    "ruby": {
+      "name": "Ruby/Ruby on Rails",
+      "detail": "Exp. 1 year. Mainly for backend development."
+    },
+    "sql": {
+      "name": "MySQL, MongoDB, redis"
+    },
+    "language": {
+      "name": "Language Proficiencies",
+      "english": {
+        "level": "English (Business Level)",
+        "note": "TOEFL (110/120), TOEIC (980/990)"
+      },
+      "japanese": {
+        "level": "Japanese (Business Level)",
+        "note": "JLPT N1"
+      },
+      "chinese": {
+        "level": "Chinese",
+        "note": "Native Speaker"
+      }
+    }
+  }
+}

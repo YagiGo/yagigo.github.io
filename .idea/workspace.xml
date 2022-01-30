@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="03981ca7-2438-4634-bd7e-f7eeeac396e5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/About/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/About/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Experience/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Experience/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Skills/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/locales/en/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/en/translation.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +31,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="refactored_with_react" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -142,6 +144,7 @@
       <recent name="$PROJECT_DIR$/public" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/public" />
     </key>
   </component>
@@ -274,7 +277,9 @@
       <workItem from="1638685354165" duration="4596000" />
       <workItem from="1638690055058" duration="260000" />
       <workItem from="1638708638180" duration="72000" />
-      <workItem from="1638789477633" duration="307000" />
+      <workItem from="1638789477633" duration="750000" />
+      <workItem from="1638932689745" duration="9000" />
+      <workItem from="1643279708156" duration="9393000" />
     </task>
     <task id="LOCAL-00001" summary="modify content">
       <created>1543812102186</created>
@@ -339,7 +344,35 @@
       <option name="project" value="LOCAL" />
       <updated>1638690306193</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="update blog url">
+      <created>1638789910441</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1638789910441</updated>
+    </task>
+    <task id="LOCAL-00011" summary="setup i18n for multiple language support">
+      <created>1643282765992</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1643282765992</updated>
+    </task>
+    <task id="LOCAL-00012" summary="update about page - EN ver">
+      <created>1643284464457</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1643284464457</updated>
+    </task>
+    <task id="LOCAL-00013" summary="update experience page - EN ver">
+      <created>1643287214403</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1643287214403</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -394,7 +427,11 @@
     <MESSAGE value="github deploy" />
     <MESSAGE value="Update README.md and implement animation." />
     <MESSAGE value="Update README.md and deploy!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update README.md and deploy!" />
+    <MESSAGE value="update blog url" />
+    <MESSAGE value="setup i18n for multiple language support" />
+    <MESSAGE value="update about page - EN ver" />
+    <MESSAGE value="update experience page - EN ver" />
+    <option name="LAST_COMMIT_MESSAGE" value="update experience page - EN ver" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/scss/_resume-item.scss">
