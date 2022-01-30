@@ -3,7 +3,9 @@ This is a resume page originally composed with good-old jQuery, vanilla JavaScri
 We all know how that went down, so... I rewrote this thing with React, just like everyone likes nowadays.
 
 [Check Page Here](https://yagigo.github.io/)
-![](./public/overview.png)
+
+![overview](https://user-images.githubusercontent.com/18433596/151704095-02d0ab6c-ce04-4f18-8b95-e27c6cb288e2.PNG)
+
 ## Features
 A complete rewrite from Bootstrap-jQuery based page to react-based SPA. All animations and elements are 
 rewritten with react components.
