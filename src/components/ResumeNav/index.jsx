@@ -23,9 +23,9 @@ class ResumeNav extends Component {
                     <NavbarCollapse className="collapse navbar-collapse" id="navbarSupportedContent">
                         <div className='navbar-nav'>
                             <NavLink className="nav-link" name="about" onClick={(e) => this.scrollTo(e) }>About</NavLink>
-                            <NavLink className="nav-link" name="education" onClick={(e) => this.scrollTo(e)}>Education & Work Experience</NavLink>
-                            <NavLink className="nav-link" name="projects" onClick={(e) => this.scrollTo(e)}>Projects</NavLink>
-                            <NavLink className="nav-link" name="skills" onClick={(e) => this.scrollTo(e)}>skills</NavLink>
+                            <NavLink className="nav-link" name="education" onClick={(e) => this.scrollTo(e)}>Education</NavLink>
+                            <NavLink className="nav-link" name="projects" onClick={(e) => this.scrollTo(e)}>Work</NavLink>
+                            <NavLink className="nav-link" name="skills" onClick={(e) => this.scrollTo(e)}>Skills</NavLink>
                             <NavLink className="nav-link" href="https://github.com/YagiGo/yagigo.github.io" rel="noreferrer" target='_blank'>
                                 About This Page <FontAwesomeIcon icon={faExternalLinkAlt} />
                             </NavLink>

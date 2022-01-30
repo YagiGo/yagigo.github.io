@@ -12,18 +12,35 @@
     "title": "Web Developer",
     "phone": "080-9825-6504",
     "email": "zhaoxinwu01@gmail.com",
-    "introduction": "Hi there! I am a web developer currently living in Tokyo, Japan. I am interested in creating mobile-first, responsive SPAs with modern frontend framework such as React/nextJS, Tailwind CSS, webpack etc. Along with start-small, easy-to-scale backend integration. Becoming a qualified full-stack developer is kind of my goal and am working on it ;) You can check my GitHub account and person blog by clicking the icons down below"
+    "introduction": "Front-End Developer with proven ability to collaborate effectively with senior developers and working experience in multilingual environments. Fluent in Chinese, English, Japanese and currently have 3 years of working experience in the front-end filed with proficiency in HTML/CSS/JavaScript/TypeScript and modern frameworks such as React/nextJS. A self-motivated and hard-working individual with a lot of passion for software development, enjoy working closely with team members and is able to implement high-quality features with elegant solutions in the least amount of time. GitHub account and person blog links down below"
   },
   "experience": {
     "college": {
       "name": "Beijing Jiaotong University, China",
       "major": "Communication Engineering",
-      "duration": "Sept. 2013 ~ Jul. 2017"
+      "degree": "B.S",
+      "duration": "Sept. 2013 ~ Jul. 2017",
+      "details": {
+        "row1": "Majoring in Communication engineers, wide range study of Internet communications, operating systems, data structures, system design etc.",
+        "row2": "Receiving scholarship for outstanding academic performance",
+        "row3": "GPA: 3.2/3.8"
+      }
     },
     "graduate_school": {
       "name": "University of Tsukuba, Japan",
       "major": "Computer Science",
-      "duration": "Apr. 2018 ~ Apr. 2020"
+      "degree": "M.S",
+      "duration": "Apr. 2018 ~ Apr. 2020",
+      "details": {
+        "row1": "Conducting research related to Mobile Edge Computing (MEC) and its potentials for optimizing web browsing experience for mobile users.",
+        "row2": "Receiving full-time scholarship for outstanding academic performance",
+        "row3": "Publishing research papers for IEEE. ",
+        "row4": "GPA: 3.3/3.5"
+      },
+      "paper": {
+        "title": "Improving Web Browsing Experience with Personalized Edge Computing.",
+        "citation": "2019 IEEE International Conferences on Ubiquitous Computing & Communications (IUCC) and Data Science and Computational Intelligence (DSCI) and Smart Computing, Networking and Services (SmartCNS). IEEE, 2019."
+      }
     },
     "internship": {
       "location": "Tokyo, Japan",
