@@ -191,3 +191,7 @@ a {
 a:hover, a:focus, a:active {
   color: #2a3682;
 }
+
+.detail-list {
+  font-size: 20px;
+}
