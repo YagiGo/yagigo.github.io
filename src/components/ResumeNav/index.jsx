@@ -15,7 +15,7 @@ class ResumeNav extends Component {
         })
     }
     render() {
-        const {t} = this.props;
+        // const {t} = this.props;
         return (
             <div>
                 <Navbar className="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">

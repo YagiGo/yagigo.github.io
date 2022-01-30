@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
-import {faPython, faJs, faNodeJs, faReact} from "@fortawesome/free-brands-svg-icons";
+import {faPython, faJs} from "@fortawesome/free-brands-svg-icons";
 import {faCheck, faDatabase} from "@fortawesome/free-solid-svg-icons";
 import {withNamespaces} from "react-i18next";
 class Skills extends Component {

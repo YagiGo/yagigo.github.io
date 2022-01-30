@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import {withNamespaces} from "react-i18next";
 class Projects extends Component {
     render() {
-        const {t} = this.props;
+        // const {t} = this.props;
         return (
             <section className="resume-section p-3 p-lg-5 d-flex flex-column" id="experience">
                 <div className="my-auto">
