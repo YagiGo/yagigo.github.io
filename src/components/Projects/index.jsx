@@ -9,8 +9,24 @@ class Projects extends Component {
                     <h2 className="mb-0">Work</h2>
                     <div className="resume-item d-flex flex-column flex-md-row mb-3">
                         <div className="resume-content mr-auto">
-                            <h3 className="mb-0">Softbank Corp.</h3>
-                            <div className='subheading'>Axross-AI (ongoing)</div>
+                            <h3 className="mb-0">Bytedance Corp. (2022 ~)</h3>
+                            <div className='subheading mb-3'>Front-End</div>
+                            <p className='lead'>
+                                Working as a frontend SDE.
+                                <ul>
+                                    <li>Working as the lead-frontend engineer. Primarily working with React, TypeScript, Electron, Jest, Cypress. </li>
+                                    <li>Tacking challenging problems and technical issues, providing feasible and optimal solutions for frontend-side issues encountering on a daily basis.  </li>
+                                    <li>Integrating back-end services as well as managing frontend unit tests, UI tests, component tests and e2e tests</li>
+                                    <li>Working closely with other SDEs and SREs to make sure consistent integrations and smooth operations. </li>
+                                </ul>
+                                <p>[Tech Stack] TypeScript/NextJS/Webpack/ESLint, Electron, React, Go, etc.</p>
+                            </p>
+                        </div>
+                    </div>
+                    <div className="resume-item d-flex flex-column flex-md-row mb-3">
+                        <div className="resume-content mr-auto">
+                            <h3 className="mb-0">Softbank Corp. (2020 ~ 2022)</h3>
+                            <div className='subheading'>Axross-AI</div>
                             <div className='subheading mb-3'>Front-End, Back-End</div>
                             <p className='lead'>
                                 <a href="https://axross-recipe.com" target="_blank" rel="noreferrer">Axross</a> is a online education service which provides AI related learning materials for developers who are not very familiar with AI field.
@@ -29,8 +45,8 @@ class Projects extends Component {
                     </div>
                     <div className="resume-item d-flex flex-column flex-md-row mb-3">
                         <div className="resume-content mr-auto">
-                            <h3 className="mb-0">Softbank Innoventure Corp.</h3>
-                            <div className='subheading'>Human Resource Tool (2019-2020)</div>
+                            <h3 className="mb-0">Softbank Innoventure Corp. (2019 ~ 2020)</h3>
+                            <div className='subheading'>Human Resource Tool</div>
                             <div className='subheading mb-3'>Front-End, Back-End</div>
                             <p className='lead'> Implementing and maintaining an internal HR tool to help employees who seek to start a business find partners. It also provides SNS features and is seamlessly integrated with both internal and external platforms such as HubSpot.
                                 <ul>
